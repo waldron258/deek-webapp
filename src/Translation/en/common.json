@@ -1,0 +1,104 @@
+{
+  "test": "In english",
+  "adminPanel": {
+    "logIn": "Log in",
+    "email": "Email",
+    "password": "Password",
+    "dashboard": "Dashboard",
+    "carousel": "Start Settings",
+    "clients": "Client Settings",
+    "products": "Products Settings",
+    "logOut": "Log Out",
+    "selectFile": "Select file",
+    "editElement": "Edit Element",
+    "addElement": "Add New Element",
+    "categories": "Categories Settings",
+    "aboutUs": "About Us Settings",
+    "addProductSpec": "Add Product Specification",
+    "manageProductSpecs": "Manage Product Specifications",
+    "specTitle": "Title",
+    "specDescription": "Description",
+    "specActions": "Actions"
+  },
+  "buttons": {
+    "moreInfo": "More info",
+    "knowMore": "Learn more",
+    "addToCart": "Add to cart",
+    "logIn": "Enter",
+    "upload": "Upload",
+    "add": "Add",
+    "edit": "Edit",
+    "save": "Save changes",
+    "send": "Send",
+    "checkout": "Checkout"
+  },
+  "infoScreen": {
+    "sizeKit": "Size your Kit!",
+    "recommendedKits": "Recommended Kits",
+    "ourImpact": "Our impact",
+    "ourClients": "Our Clients",
+    "moreInfo": "Click for more info",
+    "impact": "15.000.000 KW Installed",
+    "otherKit": "Do you need something different?"
+  },
+  "cartScreen": {
+    "title": "Your Cart",
+    "product": "Product",
+    "price": "Price",
+    "quantity": "Quantity",
+    "qty": "Qty",
+    "Total": "Total",
+    "remove": "Remove",
+    "buy": "Buy now!",
+    "subtotal": "Subtotal:",
+    "noElements": "There are no products in your cart",
+    "goShop": "Go to the store"
+  },
+  "footer": {
+    "aboutUs": "About us",
+    "links": "Sitemap",
+    "contact": "Reach us",
+    "followUs": "Find us at:"
+  },
+  "navBar": {
+    "title": "Deek",
+    "start": "Start",
+    "simulator": "Simulator",
+    "shop": "Shop",
+    "cart": "Cart",
+    "aboutUs": "About us"
+  },
+  "notFound": {
+    "title": "404 Page not Found",
+    "message": "The page you requested does not exist.",
+    "back": "Go to start page"
+  },
+  "shopScreen": {
+    "title": "Products",
+    "filterProducts": "Filter Products",
+    "categories": "Categories",
+    "search": "Search",
+    "productName": "Product name",
+    "noProducts": "No products available",
+    "sort": "Sort",
+    "none": "none",
+    "alphabetical": "Alphabetical",
+    "highestToLowest": "Highest to lowest price",
+    "lowestToHighest": "Lowest to highest price",
+    "noOptions": "No products to display"
+  },
+  "simulator": {
+    "title": "Simulator",
+    "onGrid": "On-Grid System",
+    "offGrid": "Off-Grid System",
+    "selectSystem": "Select system",
+    "selectLocation": "Select your current city",
+    "energyConsumption": "Type your energy consumption in the last 12 months in KW/h",
+    "calculate": "Calculate!",
+    "notSelected": "You haven't selected a system yet!"
+  },
+  "singleProduct": {
+    "related": "Related products",
+    "specTable": "Specifications Table"
+  }
+}

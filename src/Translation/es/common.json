@@ -1,0 +1,110 @@
+{
+  "test": "En español",
+  "adminPanel": {
+    "logIn": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "dashboard": "Tablero",
+    "carousel": "Configuración de Inicio",
+    "clients": "Configuración de Clientes",
+    "products": "Configuración de Productos",
+    "logOut": "Salir",
+    "selectFile": "Seleccione un archivo",
+    "editElement": "Editar Elemento",
+    "addElement": "Añadir Nuevo Elemento",
+    "categories": "Configuración de Categorías",
+    "aboutUs": "Configuración de Conócenos",
+    "addProductSpec": "Agregar Especificación del producto",
+    "manageProductSpecs": "Gestionar Especificaciones del Producto",
+    "specTitle": "Título",
+    "specDescription": "Descripción",
+    "specActions": "Acciones"
+  },
+  "buttons": {
+    "moreInfo": "Más info",
+    "knowMore": "Conoce más",
+    "addToCart": "Agregar al carrito",
+    "logIn": "Ingresar",
+    "upload": "Subir",
+    "add": "Agregar",
+    "edit": "Editar",
+    "save": "Guardar cambios",
+    "send": "Enviar",
+    "checkout": "Finalizar la compra"
+  },
+  "infoScreen": {
+    "sizeKit": "¡Dimensiona tu Kit!",
+    "recommendedKits": "Kits Recomendandos",
+    "ourImpact": "Nuestro Impacto",
+    "ourClients": "Nuestros Clientes",
+    "moreInfo": "Click para más info",
+    "impact": "15.000.000 KW Instalados",
+    "impact1": "15.000.000",
+    "impact2": "KW Instalados",
+    "effectiveness1": "99.9%",
+    "effectiveness2": "De efectividad",
+    "clients1": "100+",
+    "clients2": "Clientes Satisfechos",
+    "otherKit": "¿Necesitas un Kit diferente?"
+  },
+  "cartScreen": {
+    "title": "Tu Carrito",
+    "product": "Producto",
+    "price": "Precio",
+    "quantity": "Cantidad",
+    "qty": "Cant",
+    "total": "Total",
+    "remove": "Remover",
+    "buy": "¡Comprar ahora!",
+    "subtotal": "Subtotal:",
+    "noElements": "No hay productos en tu carrito",
+    "goShop": "Ir a la tienda"
+  },
+  "footer": {
+    "aboutUs": "Conócenos",
+    "links": "Mapa del sitio",
+    "contact": "Contáctanos",
+    "followUs": "Encuéntranos en:"
+  },
+  "navBar": {
+    "title": "Deek",
+    "start": "Inicio",
+    "simulator": "Simulador",
+    "shop": "Tienda",
+    "cart": "Carrito",
+    "aboutUs": "Conócenos"
+  },
+  "notFound": {
+    "title": "404 Página no encontrada",
+    "message": "La página solicitada no existe.",
+    "back": "Ir a la página de inicio"
+  },
+  "shopScreen": {
+    "title": "Productos",
+    "filterProducts": "Filtrar Productos",
+    "categories": "Categorías",
+    "search": "Búsqueda",
+    "productName": "Nombre del producto",
+    "noProducts": "No hay productos disponibles",
+    "sort": "Orden",
+    "none": "Ninguno",
+    "alphabetical": "Alfabético",
+    "highestToLowest": "Precio más alto al más bajo",
+    "lowestToHighest": "Precio más bajo al más alto",
+    "noOptions": "No hay productos para mostrar"
+  },
+  "simulator": {
+    "title": "Simulador",
+    "onGrid": "Sistema On-Grid",
+    "offGrid": "Sistema Off-Grid",
+    "selectSystem": "Selecciona el sistema",
+    "selectLocation": "Selecciona la cuidad donde te encuentras",
+    "energyConsumption": "Escriba su consumo de energía en los últimos 12 meses en KW/h",
+    "calculate": "¡Calcular!",
+    "notSelected": "¡Aún no has seleccionado un sistema!"
+  },
+  "singleProduct": {
+    "related": "Productos relacionados",
+    "specTable": "Tabla de especificaciones"
+  }
+}
