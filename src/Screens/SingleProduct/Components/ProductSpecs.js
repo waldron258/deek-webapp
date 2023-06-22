@@ -2,7 +2,7 @@ import React from "react";
 import { Tab, Tabs, Typography } from "@material-ui/core";
 import { makeStyles, styled } from "@material-ui/core/styles";
 import PropTypes from "prop-types";
-import PdfViewer from "./PdfViewer";
+// import PdfViewer from "./PdfViewer";
 
 import "react-multi-carousel/lib/styles.css";
 
@@ -222,7 +222,7 @@ export default function ProductSpecs(props) {
         className={`${classes.tabContent} ${classes.tabContentResponsive}`}
         index={1}
       >
-        <PdfViewer dataSheet={props.dataSheet} />
+        {/* <PdfViewer dataSheet={props.dataSheet} /> */}
       </TabPanel>
     </div>
   );
